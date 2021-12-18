@@ -1,7 +1,7 @@
  /* GENERATED WITH IMGUI BUILDER :) HAS 11 Objs & 1 forms */
 
 
-void gui_builder0()
+void imgui()
 {
 ImGui::SetNextWindowSize({566.f,292.f});
 
